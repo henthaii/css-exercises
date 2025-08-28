@@ -1,0 +1,19 @@
+p {
+    background-color: #ffb6c1; font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#two {
+    color: #0096FF; font-size: 36px;
+}
+
+#four {
+    background-color: #90ee90; font-size: 24px; font-weight: bold;
+}
+
+/*
+    Got my butt handed to me. Got stuck on how to make the third element bigger.
+    Didn't know you could make p a class selector.
+    Font family could also be typed out to
+    Verdana, "DejaVu Sans", sans-serif.
+
+    Solution chained selector some stuff.
