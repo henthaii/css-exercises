@@ -1,0 +1,20 @@
+.button {
+    font-size: 28px;
+    font-family:'Helvetica','Times New Roman','sans-serif'
+}
+
+#one {
+    background-color: #000000;
+    color: #ffffff
+}
+
+#two {
+    background-color: yellow;
+    color:#000000
+}
+
+/*
+    Solution was simply to put both items
+    as a class. Individual names.
+    Then add grouping selector as a comma-separated list.
+    /*
